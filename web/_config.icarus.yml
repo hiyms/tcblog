@@ -336,11 +336,11 @@ plugins:
     busuanzi: false
     # CNZZ statistics
     # https://www.umeng.com/web
-    cnzz:
-        # CNZZ tracker id
-        id: 
-        # CNZZ website id
-        web_id: 
+    # cnzz:
+    #     # CNZZ tracker id
+    #     id: 
+    #     # CNZZ website id
+    #     web_id: 
     # Alerting users about the use of cookies
     # https://www.osano.com/cookieconsent/
     cookie_consent:
@@ -358,9 +358,9 @@ plugins:
     gallery: true
     # Google Analytics plugin settings
     # https://analytics.google.com
-    google_analytics:
-        # Google Analytics tracking ID
-        tracking_id: 
+    # google_analytics:
+    #     # Google Analytics tracking ID
+    #     tracking_id: 
     # Hotjar user feedback plugin
     # https://www.hotjar.com/
     hotjar:
@@ -386,15 +386,15 @@ plugins:
         security: 
     # Twitter conversion tracking plugin settings
     # https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking-for-websites.html
-    twitter_conversion_tracking:
-        # Twitter Pixel ID
-        pixel_id: 
+    # twitter_conversion_tracking:
+    #     # Twitter Pixel ID
+    #     pixel_id: 
 # CDN provider settings
 # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:
     # Name or URL template of the JavaScript and/or stylesheet CDN provider
     cdn: jsdelivr
     # Name or URL template of the webfont CDN provider
-    fontcdn: google
+    fontcdn: ustc
     # Name or URL of the fontawesome icon font CDN provider
     iconcdn: fontawesome

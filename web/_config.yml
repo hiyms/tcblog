@@ -6,7 +6,7 @@ author: TC
 language: en
 timezone: ''
 url: http://tc.ymsblog.top
-permalink: 'blog/:year/:month/:day/:title/'
+permalink: ':category/:title/'
 permalink_defaults: null
 pretty_urls:
   trailing_index: true
