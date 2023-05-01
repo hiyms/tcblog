@@ -228,7 +228,7 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: YMS
+        author: TC组织
         # Author title
         author_title: 欢迎，我的朋友！
         # Author's current location
