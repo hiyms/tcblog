@@ -1,6 +1,7 @@
 ---
 title: TC组织基础条例
 date: 2022-10-01 12:21:22
+author : TC管理委员会
 categories:
 - File
 ---
