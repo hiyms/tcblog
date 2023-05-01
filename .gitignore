@@ -131,3 +131,4 @@ dist
 
 # web yarn
 web/yarn.lock
+web/public
